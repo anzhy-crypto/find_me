@@ -10,9 +10,9 @@ var addressPoints = [
     4.3113461
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Lattice-Based Secret Handshakes with Reusable Credentials<br />ICICS 2021; Online",
+    43.5904719,
+    3.8595132
   ],
   [
     "Deny Whatever You Want: Dual-Deniable Public-Key Encryption<br />PKC 2025; R\u00f8ros, Norway",
