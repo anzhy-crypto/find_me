@@ -28,29 +28,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Sun Yat-sen University",
+      "area": "Ph.D in Compuer Science and Technology",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2022",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Sun Yat-sen University",
+      "area": "M.S. in Cybersecurity",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2019",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Sun Yat-sen University",
+      "area": "B.S. in Network Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2015",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     }
@@ -61,32 +61,39 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Deny Whatever You Want: Dual-Deniable Public-Key Encryption",
+      "publisher": "PKC 2025",
+      "releaseDate": "2025-05-05",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-031-91829-2_8",
+      "summary": "This paper considers anonymity for deniable PKE."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Deniable cryptosystems: simpler constructions and achieving leakage resilience",
+      "publisher": "ESORICS 2025",
+      "releaseDate": "2024-01-12",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-031-50594-2_2",
+      "summary": "This paper considers side-channel attacks for deniable PKE."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Forward-Secure Revocable Secret Handshakes from Lattices",
+      "publisher": "PQCrypto 2022",
+      "releaseDate": "2022-09-21",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-031-17234-2_21",
+      "summary": "This paper considers forward security for secret handshakes."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Secret Handshakes: Full Dynamicity, Deniability and Lattice-Based Design",
+      "publisher": "Theoretical Computer Science",
+      "releaseDate": "2022-10-26",
+      "website": "https://www.sciencedirect.com/science/article/pii/S0304397522006466",
+      "summary": "This paper considers full dynamicity for secret handshakes."
+    },
+    {
+      "name": "Lattice-Based Secret Handshakes with Reusable Credentials",
+      "publisher": "ICICS 2021",
+      "releaseDate": "2021-09-27",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-030-88052-1_14",
+      "summary": "This paper considers reusable credentials for secret handshakes."
     }
   ],
   "presentations": [
@@ -119,25 +126,10 @@
       "description": ""
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Zhiyuan An",
       "category": "portfolio",
       "date": "",
       "url": "",
