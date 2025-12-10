@@ -3,7 +3,7 @@ title: "Deniable cryptosystems: simpler constructions and achieving leakage resi
 collection: publications
 category: conferences
 excerpt: 'This work considers side-channel attacks in deniable PKE.'
-date: 2023-09
+date: 2024-01-12
 venue: 'ESORICS 2023'
 ---
 
