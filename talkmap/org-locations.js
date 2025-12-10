@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Deny Whatever You Want: Dual-Deniable Public-Key Encryption<br />PKC 2025; R\u00f8ros, Norway",
+    62.5695151,
+    11.6604412
   ]
 ];
